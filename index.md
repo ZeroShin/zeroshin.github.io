@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Home
+title: Zero's
 landing-title: 'Hi, my name is Forty'
-description: null
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 image: null
 author: null
 show_tile: false
