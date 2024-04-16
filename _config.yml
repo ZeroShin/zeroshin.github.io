@@ -32,9 +32,11 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # Build settings
-theme: fortyone-jekyll-theme
+# theme: fortyone-jekyll-theme
+remote_theme: fortyone-jekyll-theme
 # plugins:
 #  - jekyll-feed
+
 markdown: kramdown
 
 sass:
