@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Zero's
-landing-title: 'Hi, my name is Forty'
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: home
+landing-title: '안녕하세요. 반갑습니다.'
+description: 'A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.'
 image: null
-author: null
-show_tile: false
+author: 'shin'
+show_tile: true
 ---
 
 Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
