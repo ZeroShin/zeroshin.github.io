@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+description: Either lead, follow or get out of the way.
 ---
 
 그러니까 여기 글을 쓰면 어디서 보이는걸까?<br/>
