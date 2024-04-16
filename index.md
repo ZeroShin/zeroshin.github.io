@@ -2,10 +2,12 @@
 layout: home
 title: home
 landing-title: '안녕하세요. 반갑습니다.'
-description: 'A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.'
+description: 'A responsive site template designed by HTML5 Up and released under the Creative Commons.'
 image: null
-author: 'shin'
-show_tile: true
+author: null
+show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+여기에는 홈 하단부에 적히는 내용이 들어가게 됩니다.<br/>
+확인하시고 마크다운 문법을 사용해서 처리하시기 바랍니다.<br/>
+그리고 위에 있는 description은 딱히 뭐가 보이지 않으니까 무시하도록 합시다.
