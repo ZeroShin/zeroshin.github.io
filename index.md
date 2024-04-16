@@ -1,13 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
-description: Either lead, follow or get out of the way.
+title: Home
+landing-title: 'Hi, my name is Forty'
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
-그러니까 여기 글을 쓰면 어디서 보이는걸까?<br/>
-여기 글을 쓰면 춤을 출거에요 
-It's time to go bed
-
-******
+Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
