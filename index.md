@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 landing-title: '안녕하세요. 반갑습니다.'
 description: 'A responsive site template designed by HTML5 Up and released under the Creative Commons.'
 image: null

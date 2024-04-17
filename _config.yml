@@ -2,12 +2,12 @@
 title: Zero's
 subtitle: Page
 email: yhs5826@gmail.com
-description:
+description: Either lead, follow or get out of the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-city: Nashville
-state: TN
+city: Seoul
+state: Songpa-gu
 country: Republic of Korea
 
 # homepage tiles
@@ -20,10 +20,12 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/zeroshin
-  GitLab:
+  LinkedIn:
+# 현재 fontawesome에 notion icon이 없는 관계로 실패
+#  Notion: https://young-repo.notion.site/c1d80fb8f08a4e4c9292972c29219b82?pvs=4
+  Youtube: 
   Google-Plus:
   Instagram:
-  LinkedIn:
   Slack:
 
 # build settings
