@@ -70,7 +70,14 @@
 		<div class="inner">
 			<ul class="icons">
 				{% for key_value in site.socials %}
-					{% if key_value[1] %}
+					{% if key_value[0] == 'Notion' %}
+						<li>
+							<a href="{{ key_value[1] }}" class="icon" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+								<img src="/assets/icon/notion-logo.svg" alt="Notion Logo" width="32" height="32">
+								<span class="label">{{ key_value[0] }}</span>
+							</a>
+						</li>
+					{% elsif key_value[1] %}
 						<li>
 							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
 								<span class="label">{{ key_value[0] }}</span>

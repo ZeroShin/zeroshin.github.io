@@ -21,8 +21,8 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/zeroshin
   LinkedIn:
-# 현재 fontawesome에 notion icon이 없는 관계로 실패
-#  Notion: https://young-repo.notion.site/c1d80fb8f08a4e4c9292972c29219b82?pvs=4
+# 현재 fontawesome에 notion icon이 없는 관계로 이미지를 직접 넣어 사용함. 추후 사용할 수 있게되면 변경 필요.
+  Notion: https://young-repo.notion.site/c1d80fb8f08a4e4c9292972c29219b82?pvs=4
   Youtube: 
   Google-Plus:
   Instagram:
