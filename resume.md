@@ -29,8 +29,11 @@ Activities
 Skills
 
 <h2>Education</h2>
-<p><span class="image left"><img src="{% link assets/logos/hongik_emblem.svg %}" 
-alt="" /></span>Hongik Univ.
+<p>
+    <span class="image left">
+        <img src="{% link assets/logos/hongik_emblem.svg %}" alt="" />
+    </span>
+Hongik Univ.
 Computer Engineering</p>
 
 </div>
