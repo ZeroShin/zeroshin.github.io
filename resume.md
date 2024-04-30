@@ -24,7 +24,7 @@ show_tile: true
 <!-- 한문단 소개 -->
 <section id="intro">
     <div class= "inner">
-        <h2>Introduce</h2>
+        <h2>Intro</h2>
         <blockquote>
             4th Graphics, Windows Developer. Nickname "Zero".<br/>
 학부시절부터 꾸준히 그래픽과 관련된 공부를 하였고 <br/>
