@@ -49,9 +49,17 @@ show_tile: true
         <h2>Activities</h2>
         <p>
             Opensource Contribution<br/>
-            Medici Academy<br/>
+            <span class="image left">
+                <img src="{% link assets/logos/IITP_CI.svg %}" alt="" style="background-color: white; border-radius: 10%;" width="100" height="100"/>
+            </span>
+            <a href="https://www.medici-edu.co.kr/">Medici</a>
             Unity C# VR AR 
             Android PlayStore Photon Firebase Google Cloud Anchor
+            혁신성장 청년인재 집중양성<br/>
+            수료<br/>
+            <span style="color: gray;">
+                2019.05 ~ 2019.11
+            </span>
         </p>
     </div>
 </section>
