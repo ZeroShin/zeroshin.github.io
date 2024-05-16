@@ -38,7 +38,13 @@ show_tile: true
     <div class= "inner">
         <h2>Work experience</h2>
         <p>
-            삼안
+            <span class="image left">
+                <img src="{% link assets/logos/saman_CI.svg %}" alt="" style="background-color: white; border-radius: 10%;" width="100" height="100"/>
+            </span>
+            삼안<br>
+            <span style="color: gray;">
+                2020.07 ~
+            </span>
         </p>
     </div>
 </section>
