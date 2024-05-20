@@ -26,9 +26,9 @@ show_tile: true
     <div class= "inner">
         <h2>Intro</h2>
         <blockquote>
-            4th Graphics, Windows Developer. Nickname "Zero".<br/>
-학부시절부터 꾸준히 그래픽과 관련된 공부를 하였고 <br/>
-체계적으로 공유하고 이끌어라 라는 가치를 가지고 있다.<br/>
+            4th 3D Graphics, .NET Developer. Nickname "Zero".<br/>
+            Focused on systematic work processing, continuous learning, and sharing of results.<br/>
+            My vision is that 3D graphics can be used equally in life. So, I have been studying 3D since my undergraduate.
         </blockquote>
     </div>
 </section>
