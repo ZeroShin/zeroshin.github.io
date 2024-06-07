@@ -30,6 +30,26 @@ show_tile: true
         </section>
     </section>
 
+    <!-- Two -->
+    <section id="one" class="spotlights">
+        <section>
+            <a href="https://zeroshin.github.io/React_Calculator/" class="image">
+                <img src="{% link assets/images/calculator.png %}" alt="" data-position="center center" />
+            </a>
+            <div class="content">
+                <header class="major">
+                    <h3>React.js로 계산기 만들기</h3>
+                    <p>React를 이용해서 만든 계산기를 가져옴.</p>
+                    <ul class="actions">
+                        <li>
+                            <a href="https://zeroshin.github.io/React_Calculator/" class="button">여기서 확인</a>
+                        </li>
+                    </ul>
+                </header>
+            </div>
+        </section>
+    </section>
+
 
 
 </div>

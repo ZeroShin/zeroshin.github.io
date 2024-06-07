@@ -36,12 +36,13 @@ show_tile: true
 <!-- 경력 -->
 <section id="Career">
     <div class= "inner">
-        <h2>Work experience</h2>
+        <h2>Work Experience</h2>
         <p>
             <span class="image left">
                 <img src="{% link assets/logos/saman_CI.svg %}" alt="" style="background-color: white; border-radius: 10%;" width="100" height="100"/>
             </span>
-            삼안<br>
+            <a href="http://www.samaneng.co.kr/">Saman Corp.</a><br/>
+            3D Graphic Engine Developer<br/>
             <span style="color: gray;">
                 2020.07 ~
             </span>
@@ -58,11 +59,10 @@ show_tile: true
             <span class="image left">
                 <img src="{% link assets/logos/IITP_CI.svg %}" alt="" style="background-color: white; border-radius: 10%;" width="100" height="100"/>
             </span>
-            <a href="https://www.medici-edu.co.kr/">Medici</a>
+            <a href="https://www.medici-edu.co.kr/">Medici</a><br/>
+            혁신성장 청년인재 집중양성 수료<br/>
             Unity C# VR AR 
-            Android PlayStore Photon Firebase Google Cloud Anchor
-            혁신성장 청년인재 집중양성<br/>
-            수료<br/>
+            Android PlayStore Photon Firebase Google Cloud Anchor<br/>
             <span style="color: gray;">
                 2019.05 ~ 2019.11
             </span>
